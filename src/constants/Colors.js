@@ -1,0 +1,7 @@
+export default {
+  DARK_BLUE: "#005B96",
+  BLUE: "#032DCD",
+  LIGHT_YELLOW: "#DADA4F",
+  LIGTH_ORANGE: "#FCE3A7",
+  LIGHT_BLUE: "#3F8CE2",
+};
